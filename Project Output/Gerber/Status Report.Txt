@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Standard] of PCB Document [FlexV1_Panel.PcbDoc]
+   Generated File[Pick Place for FlexV1_Panel(Standard).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:34:46 On 17.06.2020

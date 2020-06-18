@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: FlexV1_Panel.GBR   17.06.2020  19:34:40
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBS1               Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBP1               Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM7                Mechanical 7                            
+.GM9                V Cut                                   
+.GM10               Mechanical 10                           
+------------------------------------------------------------------------------------------
