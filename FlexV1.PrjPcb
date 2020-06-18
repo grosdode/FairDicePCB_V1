@@ -263,6 +263,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYRSGSVB
 
+[Document14]
+DocumentPath=FlexV1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=63D8EFD6-F5BE-4C89-B3BC-2D267024CA28
 Description=Standard
