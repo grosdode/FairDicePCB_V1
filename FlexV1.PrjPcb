@@ -312,79 +312,59 @@ DocumentPath=Project Output\Gerber\FlexV1_Panel.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Output\Gerber\FlexV1_Panel.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GBP1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GBS1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GM9
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Output\Gerber\FlexV1_Panel.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Output\Gerber\FlexV1_Panel.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Output\Gerber\FlexV1_Panel.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Output\Gerber\Pick Place for FlexV1_Panel(Standard).txt
 DItemRevisionGUID=
 
 [Parameter1]
