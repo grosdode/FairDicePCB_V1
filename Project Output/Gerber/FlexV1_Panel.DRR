@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: FlexV1_Panel.PcbDoc   17.06.2020  19:34:42
+NCDrill File Report For: FlexV1_Panel.PcbDoc   24.06.2020  18:22:50
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom LayerX
@@ -7,11 +7,11 @@ ASCII RoundHoles File : FlexV1_Panel.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             538       PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             556       PTH        0.00inch (0.00mm)
 T2      12mil (0.305mm)                                           Round             9         PTH        0.00inch (0.00mm)
 T3      42mil (1.067mm)                                           Round             3         PTH        0.00inch (0.00mm)
 T4      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              554
+Totals                                                                              572
 
 Total Processing Time (hh:mm:ss) : 00:00:01

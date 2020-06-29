@@ -324,46 +324,38 @@ DocumentPath=Project Output\Gerber\FlexV1_Panel.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Output\Gerber\FlexV1_Panel.GBP1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Output\Gerber\FlexV1_Panel.GBS1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GM9
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Output\Gerber\FlexV1_Panel.TXT
 DItemRevisionGUID=
 
@@ -531,7 +523,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=kop1
+TargetPrinter=Samsung M262X
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
